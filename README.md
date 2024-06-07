@@ -1,4 +1,1 @@
-simble project to Add following functionality using spring boot and jwt 
-1- login 
-2- logout
-3- signup
+Simple login/logout backend project using spring boot along with jwt 
